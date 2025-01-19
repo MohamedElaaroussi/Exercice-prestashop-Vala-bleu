@@ -1,0 +1,24 @@
+{
+    "name": "prestashop/vmobile",
+    "description": "PrestaShop Mobile Widget Module",
+    "license": "AFL-3.0",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VMobile\\": "src/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+}

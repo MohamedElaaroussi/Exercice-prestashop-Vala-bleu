@@ -1,0 +1,15 @@
+{
+    "name": "pc/vmobile",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Vmobile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamedelaarousi",
+            "email": "mohamedaitlaaroussi1@gmail.com"
+        }
+    ],
+    "require": {}
+}
